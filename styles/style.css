@@ -43,6 +43,7 @@
     justify-self: end;
     text-underline-offset: 4px;
     line-height: 24px;
+
 }
 
 .header__address-link {
@@ -253,7 +254,7 @@
 }
 
 .about__text {
-    margin-right: 24px;
+    /*margin-right: 24px;*/
     display: flex;
     flex-direction: column;
     gap: 24px;
