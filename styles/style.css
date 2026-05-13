@@ -41,12 +41,17 @@
     max-width: 240px;
     justify-self: end;
     text-underline-offset: 4px;
-    line-height: 24px;
+    line-height: 24.3px;
 
 }
 
 .header__address-link {
     text-decoration: none;
+}
+
+.address {
+    font-style: normal;
+    line-height: 24.3px;
 }
 
 .cover {
@@ -91,13 +96,13 @@
 
 .aligned-text_center {
     text-align: center;
-    margin-top: 20px;
+    padding-top: 20px;
     margin-left: 30px;
 }
 
 .aligned-text_right {
     text-align: right;
-    margin-top: 20px;
+    padding-top: 20px;
 }
 
 .letter-spacing-extended {
@@ -184,7 +189,7 @@
 .card__title {
     color: white;
     font-size: 22px;
-    line-height: 1.20;
+    line-height: 1.2;
     font-weight: 700;
     text-transform: uppercase;
     text-decoration: underline;
@@ -194,7 +199,7 @@
 .card__text {
     color: white;
     font-size: 20px;
-    line-height: 1.20;
+    line-height: 1.2;
 }
 
 .card_type_film {
